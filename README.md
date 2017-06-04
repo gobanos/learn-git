@@ -1,1 +1,1 @@
-My Project
+Learn Git with Pro Git
