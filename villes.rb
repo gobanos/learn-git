@@ -6,9 +6,7 @@ villes   = %w[ Londres
                Paris
                Amsterdam
                Berlin ]
-visitees = %w[Berlin Oslo]
+visitees = %w[Londres Paris]
 
 puts "Encore à visiter :",
      villes - visitees
-
-# test line
