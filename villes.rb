@@ -11,3 +11,4 @@ visitees = %w[Berlin Oslo]
 puts "Encore à visiter :",
      villes - visitees
 
+# test line

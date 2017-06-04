@@ -1,0 +1,8 @@
+# Object and Archive files
+*.[oa]
+
+# Temporary files
+*~
+
+# Build dir
+Builds

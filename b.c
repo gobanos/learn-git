@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main() {
-    printf("B\n");
+    printf("B!\n");
 }
